@@ -2,7 +2,7 @@
 
 Building an immutable world for limitless freedom.
 
-## Installation
+## Installationn
 
 Built on [SvelteKit](https://kit.svelte.dev/) (adapter-static)
 
